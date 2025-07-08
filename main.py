@@ -15,8 +15,7 @@ headers = {
     "Authorization": f"Bearer {API_KEY}"
 }
 
-# Replace this with your actual analysis endpoint
-url = "https://www.mysite.com/api/analyze"
+url = "https://webhook.site/45edac62-a567-46f4-835d-c50a89d1c47a"
 
 print("📡 Sending request to", url)
 try:
