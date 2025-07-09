@@ -15,7 +15,7 @@ headers = {
     "Authorization": f"Bearer {API_KEY}"
 }
 
-url = "https://webhook.site/45edac62-a567-46f4-835d-c50a89d1c47a"
+url = "https://violot-beluga.web.app/"
 
 print("📡 Sending request to", url)
 try:
