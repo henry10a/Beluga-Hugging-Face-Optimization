@@ -1,6 +1,6 @@
 # 🤖 Beluga Hugging Face Usage Analyzer
 
-This Python script securely sends your Hugging Face API key to your own analysis server (e.g. `www.mysite.com`) and displays the server's response. The goal is to help you analyze and optimize your API usage.
+This Python script securely sends your Hugging Face API key to our own analysis server (`https://violot-beluga.web.app/`) and displays the server's response. The goal is to help you analyze and optimize your API usage for more effecient and effective calls.
 
 ---
 
